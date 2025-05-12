@@ -1,4 +1,6 @@
 # Super Multiversus Melee
+*** PLAY ***
+https://rankioshi.itch.io/super-multiverse-melee
 
 ![cover](https://cdn.discordapp.com/attachments/1229834827721605152/1371617294878380042/gameCover.png?ex=6823c9a6&is=68227826&hm=0e011b812f489168957598060152534130089c65f4de5dee3881702aaa3a2bda&)
 

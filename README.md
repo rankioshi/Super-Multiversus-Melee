@@ -7,7 +7,7 @@ https://rankioshi.itch.io/super-multiverse-melee
 
 A **Smash Bros-style fighting game** built in **Construct**, featuring iconic characters from anime and games. The goal is simple: knock your opponent out until their lives hit zero.
 
-## 🎮 Playable Characters
+## Playable Characters
 
 ![select](https://cdn.discordapp.com/attachments/1229834827721605152/1371617921373175838/image.png?ex=6823ca3b&is=682278bb&hm=d3c552932d786b0ece8f0e45ce175a88b8892ff1c8d8d2dcfd88ff478aeb9fd3&)
 
@@ -17,7 +17,7 @@ A **Smash Bros-style fighting game** built in **Construct**, featuring iconic ch
 - Wesker  
 - Seiya
 
-## 🌍 Available Stages
+## Available Stages
 
 The game features **4 unique stages**, each with distinct visuals and challenges.
 
@@ -25,7 +25,7 @@ The game features **4 unique stages**, each with distinct visuals and challenges
 
 ![img2](https://cdn.discordapp.com/attachments/1229834827721605152/1371618570039197847/image.png?ex=6823cad6&is=68227956&hm=497fb6a0b3eac822fb322ad1ad844a46249541a399845955b5c1bfc4f68450d5&)
 
-## 🕹️ How to Play
+## How to Play
 
 ### 2-Player Mode:
 - **Player 1**:
@@ -40,7 +40,7 @@ The game features **4 unique stages**, each with distinct visuals and challenges
 - Use the **Arrow Keys** to control Player 1
 - Press **Spacebar** to auto-select a character for Player 2
 
-## 💥 Objective
+## Objective
 
 ![img3](https://cdn.discordapp.com/attachments/1229834827721605152/1371619148026740808/image.png?ex=6823cb60&is=682279e0&hm=6e2a2c153e177a39e214607b7595ae75b6f5d7d788bf0d58c36329b8114b3db7&)
 

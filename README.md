@@ -2,7 +2,7 @@
 ### PLAY ###
 https://rankioshi.itch.io/super-multiverse-melee
 
-![cover](https://cdn.discordapp.com/attachments/1229834827721605152/1371617294878380042/gameCover.png?ex=6823c9a6&is=68227826&hm=0e011b812f489168957598060152534130089c65f4de5dee3881702aaa3a2bda&)
+![cover](https://cdn.discordapp.com/attachments/1229834827721605152/1371617294878380042/gameCover.png?ex=682c5b66&is=682b09e6&hm=6a1a2c70d124da9e0581c609799aee5498fc33f2f6718ce919ce6b19cf15e6c9&)
 
 
 A **Smash Bros-style fighting game** built in **Construct**, featuring iconic characters from anime and games. The goal is simple: knock your opponent out until their lives hit zero.

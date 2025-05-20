@@ -9,7 +9,7 @@ A **Smash Bros-style fighting game** built in **Construct**, featuring iconic ch
 
 ## Playable Characters
 
-![select](https://cdn.discordapp.com/attachments/1229834827721605152/1371617921373175838/image.png?ex=6823ca3b&is=682278bb&hm=d3c552932d786b0ece8f0e45ce175a88b8892ff1c8d8d2dcfd88ff478aeb9fd3&)
+![select](https://cdn.discordapp.com/attachments/1229834827721605152/1371617921373175838/image.png?ex=682d04bb&is=682bb33b&hm=da6b21975811bae2144b56b3dc45ab5df13e982cd26e5efee72abf38128f4daf&)
 
 - Sol Badguy  
 - Link  
@@ -21,9 +21,9 @@ A **Smash Bros-style fighting game** built in **Construct**, featuring iconic ch
 
 The game features **4 unique stages**, each with distinct visuals and challenges.
 
-![img1](https://cdn.discordapp.com/attachments/1229834827721605152/1371618281236070450/image.png?ex=6823ca91&is=68227911&hm=7d9ffb02e744e3bb15e31691b1b7136e6c418da654bf67e904b05dd86d248174&)
+![img1](https://cdn.discordapp.com/attachments/1229834827721605152/1371618281236070450/image.png?ex=682d0511&is=682bb391&hm=ce01fd0db5721933152f224a8e7cd4b81f642b48155e141b220b7a02a1a3e44f&)
 
-![img2](https://cdn.discordapp.com/attachments/1229834827721605152/1371618570039197847/image.png?ex=6823cad6&is=68227956&hm=497fb6a0b3eac822fb322ad1ad844a46249541a399845955b5c1bfc4f68450d5&)
+![img2](https://cdn.discordapp.com/attachments/1229834827721605152/1371618570039197847/image.png?ex=682d0556&is=682bb3d6&hm=ba9bd4474873990fd2d82770f9e0567d95a910c6873190c71998059a1a272176&)
 
 ## How to Play
 

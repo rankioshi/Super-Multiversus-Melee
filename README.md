@@ -42,7 +42,7 @@ The game features **4 unique stages**, each with distinct visuals and challenges
 
 ## Objective
 
-![img3](https://cdn.discordapp.com/attachments/1229834827721605152/1371619148026740808/image.png?ex=6823cb60&is=682279e0&hm=6e2a2c153e177a39e214607b7595ae75b6f5d7d788bf0d58c36329b8114b3db7&)
+![img3](https://cdn.discordapp.com/attachments/1229834827721605152/1371619148026740808/image.png?ex=682d05e0&is=682bb460&hm=2606f02bf0552378fee7493b0b000af3e2780acfd35c3400fa3ee7d7f4e2740a&)
 
 Each player starts with a set number of lives.  
 **The player who runs out of lives first loses**. Knock your opponent off the stage as many times as possible!
